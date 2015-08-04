@@ -24,3 +24,8 @@ A small library that adds commas to numbers
 ## Contributing
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
+
+
+[![Coverage Status](https://coveralls.io/repos/inaeem/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/inaeem/number-formatter?branch=master)
+
+[![Coverage Status](https://coveralls.io/repos/inaeem/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/inaeem/number-formatter?branch=master)
